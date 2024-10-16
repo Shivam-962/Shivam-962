@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*L_QoAG863l8QvqxpNyBiqw.gif)
 <h1 align="center">Hi 👋, I'm Shivam Jethure</h1>
 <h3 align="center">"In the DJ booth of code, I remix challenges into beats of innovation, dropping bytes that make the crowd shout 'Encore!'"</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3bab9728898167.55d79cd0b855f.gif">
