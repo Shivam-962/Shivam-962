@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shivam Jethure</h1>
 <h3 align="center">"In the DJ booth of code, I remix challenges into beats of innovation, dropping bytes that make the crowd shout 'Encore!'"</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3bab9728898167.55d79cd0b855f.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=therajgupta&label=Profile%20views&color=0e75b6&style=flat" alt="therajgupta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shivam-962&label=Profile%20views&color=0e75b6&style=flat" alt="Shivam-962" /> </p>
 <p align="left"> <a href="https://twitter.com/therajguptax" target="blank"><img src="https://img.shields.io/twitter/follow/therajguptax?logo=twitter&style=for-the-badge" alt="therajguptax" /></a> </p>
 <!-- - 🔭 I’m currently Doing **100days of code challenge**
 - 🌱 I’m currently learning **React** -->
